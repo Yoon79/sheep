@@ -58,10 +58,10 @@ class SheepView @JvmOverloads constructor(
 
     private fun startAnimation() {
         isAnimating = true
-        animate()
+        startAnimationLoop()
     }
 
-    private fun animate() {
+    private fun startAnimationLoop() {
         if (!isAnimating) return
         
         // 모든 양 업데이트
@@ -73,7 +73,7 @@ class SheepView @JvmOverloads constructor(
         invalidate()
         
         // 다음 프레임 예약 (60 FPS)
-        postDelayed({ animate() }, 16)
+        postDelayed({ startAnimationLoop() }, 16)
     }
 
     override fun onDraw(canvas: Canvas) {
