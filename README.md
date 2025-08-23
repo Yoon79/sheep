@@ -13,7 +13,7 @@
 
 - **앱 이름**: SheepToSleep
 - **패키지명**: com.goodafteryoon.sheep
-- **최소 SDK**: API 24 (Android 7.0)
+- **최소 SDK**: API 26 (Android 8.0)
 - **타겟 SDK**: API 35 (Android 15)
 - **언어**: Kotlin
 - **UI**: Custom View
