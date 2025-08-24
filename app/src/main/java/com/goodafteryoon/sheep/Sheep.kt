@@ -12,7 +12,8 @@ data class Sheep(
     var y: Float,
     var direction: Float, // 라디안 단위
     var speed: Float = 3f,
-    val imageView: ImageView
+    val imageView: ImageView,
+    val isSpecial: Boolean = false
 ) {
     
     fun update(screenWidth: Int, screenHeight: Int) {
@@ -21,7 +22,7 @@ data class Sheep(
         y += sin(direction) * speed
         
         // 화면 경계에 부딪혔을 때 방향 변경
-        val sheepSize = 192f // 양의 크기 (2배로 증가)
+        val sheepSize = if (isSpecial) 960f else 192f // 특별한 양은 5배 크게
         
         if (x <= sheepSize / 2 || x >= screenWidth - sheepSize / 2) {
             // 좌우 경계에 부딪힘

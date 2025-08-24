@@ -2983,11 +2983,13 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button_background
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable dialog_background
 drawable ic_arrow_back_black_24
 drawable ic_call_answer
 drawable ic_call_answer_low
@@ -3006,6 +3008,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
+drawable ic_settings
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
 drawable m3_bottom_sheet_drag_handle
@@ -3203,6 +3206,7 @@ id clear_text
 id clip_horizontal
 id clip_vertical
 id clockwise
+id closeButton
 id closest
 id collapseActionView
 id compress
@@ -3292,6 +3296,7 @@ id graph_wrap
 id group_divider
 id grouping
 id groups
+id guideline_top
 id header_title
 id hide_ime_id
 id hideable
@@ -3385,6 +3390,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id musicSwitch
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3474,6 +3480,9 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
+id settingsButton
+id settingsDialog
+id settingsOverlay
 id sharedValueSet
 id sharedValueUnset
 id sheepView
@@ -3489,6 +3498,7 @@ id snackbar_action
 id snackbar_text
 id snap
 id snapMargins
+id soundSwitch
 id south
 id spacer
 id special_effects_controller_view_tag
@@ -3697,6 +3707,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_settings
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3779,6 +3790,7 @@ layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+raw background_music
 raw sheep_sound
 string abc_action_bar_home_description
 string abc_action_bar_up_description

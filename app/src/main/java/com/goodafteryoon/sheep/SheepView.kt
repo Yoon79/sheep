@@ -28,15 +28,36 @@ class SheepView @JvmOverloads constructor(
         isFocusable = true
     }
 
+
+    
     override fun onTouchEvent(event: MotionEvent): Boolean {
+        if (!isEnabled) return false
         when (event.action) {
             MotionEvent.ACTION_DOWN -> {
+                // 설정 버튼 영역의 터치는 무시 (화면 상단 15% 우측 영역)
+                val buttonAreaTop = height * 0.15f
+                if (event.x > width - 80 && event.y < buttonAreaTop) {
+                    return false
+                }
+                
                 // 터치한 위치에 양 생성
                 createSheep(event.x, event.y)
                 return true
             }
         }
         return super.onTouchEvent(event)
+    }
+    
+    override fun onInterceptTouchEvent(ev: MotionEvent?): Boolean {
+        if (!isEnabled) return false
+        // 설정 버튼 영역은 터치를 가로채지 않음
+        ev?.let { event ->
+            val buttonAreaTop = height * 0.15f
+            if (event.x > width - 80 && event.y < buttonAreaTop) {
+                return false
+            }
+        }
+        return super.onInterceptTouchEvent(ev)
     }
 
     private fun createSheep(x: Float, y: Float) {
@@ -46,14 +67,22 @@ class SheepView @JvmOverloads constructor(
         // 소리 재생
         playSheepSound()
         
-        // ImageView 생성 (크기 2배로 증가)
+        // ImageView 생성 (크기 설정)
         val imageView = ImageView(context).apply {
-            layoutParams = LayoutParams(192, 192) // 96 -> 192로 2배 증가
             scaleType = ImageView.ScaleType.FIT_CENTER
         }
         
         // 100단위마다 특별한 양 표시
         val isSpecialSheep = sheepCount % 100 == 0
+        
+        // 크기 설정 (특별한 양은 5배 크게)
+        val size = if (isSpecialSheep) {
+            960 // 192 * 5 = 960
+        } else {
+            192 // 일반 양은 2배 크기
+        }
+        
+        imageView.layoutParams = LayoutParams(size, size)
         
         // GIF 로드 (100단위면 특별한 양, 아니면 일반 양)
         val gifPath = if (isSpecialSheep) {
@@ -73,7 +102,8 @@ class SheepView @JvmOverloads constructor(
             x = x,
             y = y,
             direction = randomDirection,
-            imageView = imageView
+            imageView = imageView,
+            isSpecial = isSpecialSheep
         )
         
         sheepList.add(sheep)
@@ -86,12 +116,19 @@ class SheepView @JvmOverloads constructor(
     }
     
     private fun playSheepSound() {
+        // 설정에서 소리 활성화 여부 확인
+        val sharedPreferences = context.getSharedPreferences("SheepToSleepSettings", Context.MODE_PRIVATE)
+        val soundEnabled = sharedPreferences.getBoolean("sound_enabled", true)
+        
+        if (!soundEnabled) return
+        
         try {
             // 기존 MediaPlayer 정리
             mediaPlayer?.release()
             
             // 새로운 MediaPlayer 생성
             mediaPlayer = MediaPlayer.create(context, R.raw.sheep_sound)
+            mediaPlayer?.setVolume(0.5f, 0.5f) // 볼륨을 50%로 설정
             mediaPlayer?.setOnCompletionListener { mp ->
                 mp.release()
             }

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-31:12
 MERGED from [com.google.android.material:material:1.11.0] /Users/seyoonwang/.gradle/caches/transforms-3/eaf6cb842bf96a5d1b11db61b47f74be/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/seyoonwang/.gradle/caches/transforms-3/8177fc0ae5949b09fa6ab8b305676505/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/05c7963c5b78615e2170043d4dd5d7e5/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
@@ -59,8 +59,8 @@ MERGED from [androidx.print:print:1.0.0] /Users/seyoonwang/.gradle/caches/transf
 	xmlns:android
 		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:5:5-24:19
-INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:5:5-29:19
+INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:5:5-29:19
 MERGED from [com.google.android.material:material:1.11.0] /Users/seyoonwang/.gradle/caches/transforms-3/eaf6cb842bf96a5d1b11db61b47f74be/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] /Users/seyoonwang/.gradle/caches/transforms-3/eaf6cb842bf96a5d1b11db61b47f74be/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/seyoonwang/.gradle/caches/transforms-3/8177fc0ae5949b09fa6ab8b305676505/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -117,6 +117,14 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
 		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.goodafteryoon.sheep.SettingsActivity
+ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:25:9-28:57
+	android:exported
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:27:13-37
+	android:theme
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:28:13-54
+	android:name
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:26:13-45
 uses-sdk
 INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml
