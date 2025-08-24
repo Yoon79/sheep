@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.goodafteryoon.sheep.app-mergeDebugResources-30:/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "com.goodafteryoon.sheep.app-mergeDebugResources-39:/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
                     "source": "/Users/seyoonwang/.gradle/caches/transforms-3/2303021cb7f3f78c4bc1b8231e5ae854/transformed/appcompat-1.6.1/res/values-ldltr-v21/values-ldltr-v21.xml",

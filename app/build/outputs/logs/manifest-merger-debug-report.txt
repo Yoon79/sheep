@@ -1,15 +1,28 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:1-34:12
 MERGED from [com.google.android.material:material:1.11.0] /Users/seyoonwang/.gradle/caches/transforms-3/eaf6cb842bf96a5d1b11db61b47f74be/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/89e538b288f5eed769e503ced55fc269/transformed/play-services-ads-22.6.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/seyoonwang/.gradle/caches/transforms-3/ed5014a2716b1e0dde3b8148e15abff5/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/seyoonwang/.gradle/caches/transforms-3/85c7674c9c2927ad91a6764f9d72cc20/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/seyoonwang/.gradle/caches/transforms-3/8177fc0ae5949b09fa6ab8b305676505/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/05c7963c5b78615e2170043d4dd5d7e5/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/2303021cb7f3f78c4bc1b8231e5ae854/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/seyoonwang/.gradle/caches/transforms-3/36ddae848103d19ebf588b2230ebdac9/transformed/glide-4.16.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/e854dc173145741c17288d2b8e5ed608/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:17:1-95:12
+MERGED from [com.google.android.gms:play-services-ads-base:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/21c8c7a762e2d7cee386ffdfea27ea15/transformed/play-services-ads-base-22.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.ump:user-messaging-platform:2.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/cb1a05ad385dab61d41dff317a708a22/transformed/user-messaging-platform-2.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/676f928ed35b5fd8ddadef22676c0b7a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/seyoonwang/.gradle/caches/transforms-3/9d70ec9b71947a2bec678d0c714bb5a9/transformed/play-services-appset-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/153b3ec1b36782ac009e00119c2065a3/transformed/play-services-base-18.0.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/seyoonwang/.gradle/caches/transforms-3/8567a25e610e4c57100fe40d034dde1a/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/81519921713b616d77a83506e5ef2543/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/3c72714ad3cfa20fc5939c515e34727c/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/521d75df95d0fb30b567bb8d487687e4/transformed/play-services-basement-18.2.0/AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.fragment:fragment:1.3.6] /Users/seyoonwang/.gradle/caches/transforms-3/0814a142ad1dd5b790d941dd8dce2a92/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.8.0] /Users/seyoonwang/.gradle/caches/transforms-3/8c65ab0b27d4946b7dde4bbe5fc9b5b9/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.12.0] /Users/seyoonwang/.gradle/caches/transforms-3/25d8c22daa96a1c04b5fa3d9123a4a90/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
@@ -21,13 +34,16 @@ MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/seyoonwang
 MERGED from [androidx.transition:transition:1.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/d2dc903d36dff689c28920e041dbe2b4/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/3131f2a29cd97810f7003d6130d3fec8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/20a3fb5df4904e943d3194ad8a03f3b6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/seyoonwang/.gradle/caches/transforms-3/b0abaf1ee00b8bbf5ef31db5632c9ca8/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/ad05cc9213b4d5a7c1c99e670e93e3f9/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/0f4efd14d87c979a750a0e7d631c7215/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/06840955b76f998776603c8e6e239b16/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/7c13ce2cd3ffbc08633eab04caa2e4f9/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/741a16d27febc46cfd6b09efd0f8ad1c/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:17:1-145:12
 MERGED from [androidx.core:core:1.12.0] /Users/seyoonwang/.gradle/caches/transforms-3/97e765d7646eda9d89caa6262cf470cb/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/seyoonwang/.gradle/caches/transforms-3/24a33f6c58ce47136219c8ef40630553/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/ab7ac7e17581ecee63193ea107ae7d98/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/8af54e0bac94692eca074d1ccbe92802/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/eb82d03e2abcaac43cb63f01bcf8aede/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/1f7c2b1373ceef599664a0f7dda74acf/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
@@ -44,10 +60,13 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/seyoonwang/.gradle/c
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/71ab9a8073c0ca5b314a5a684d37123f/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/0be700c9754429f0e9d143616dc00db2/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/seyoonwang/.gradle/caches/transforms-3/e31212a00fd25c60458e58354adc6d7f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/seyoonwang/.gradle/caches/transforms-3/3de06fbe99c57d4a8a80625e13dadd2e/transformed/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/2a2991bea4032cd791867b86327229dc/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/b0fa39cdab60346c5d4f75d6a2b74611/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/9632c531ef9e8b9b93d38c3393006279/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/041f4add30e80fb020c80f1480edcdce/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/94e1dd6c0b2a7451e8c6830658ced9bc/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/4a0913384741df131e99728787f7947b/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
 	package
 		INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -59,14 +78,34 @@ MERGED from [androidx.print:print:1.0.0] /Users/seyoonwang/.gradle/caches/transf
 	xmlns:android
 		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:5:5-29:19
-INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:5:5-29:19
+ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:5:5-32:19
+INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:5:5-32:19
 MERGED from [com.google.android.material:material:1.11.0] /Users/seyoonwang/.gradle/caches/transforms-3/eaf6cb842bf96a5d1b11db61b47f74be/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] /Users/seyoonwang/.gradle/caches/transforms-3/eaf6cb842bf96a5d1b11db61b47f74be/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/seyoonwang/.gradle/caches/transforms-3/85c7674c9c2927ad91a6764f9d72cc20/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/seyoonwang/.gradle/caches/transforms-3/85c7674c9c2927ad91a6764f9d72cc20/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/seyoonwang/.gradle/caches/transforms-3/8177fc0ae5949b09fa6ab8b305676505/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/seyoonwang/.gradle/caches/transforms-3/8177fc0ae5949b09fa6ab8b305676505/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:53:5-93:19
+MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:53:5-93:19
+MERGED from [com.google.android.gms:play-services-ads-base:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/21c8c7a762e2d7cee386ffdfea27ea15/transformed/play-services-ads-base-22.6.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/21c8c7a762e2d7cee386ffdfea27ea15/transformed/play-services-ads-base-22.6.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/676f928ed35b5fd8ddadef22676c0b7a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/676f928ed35b5fd8ddadef22676c0b7a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/seyoonwang/.gradle/caches/transforms-3/9d70ec9b71947a2bec678d0c714bb5a9/transformed/play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/seyoonwang/.gradle/caches/transforms-3/9d70ec9b71947a2bec678d0c714bb5a9/transformed/play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/153b3ec1b36782ac009e00119c2065a3/transformed/play-services-base-18.0.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/153b3ec1b36782ac009e00119c2065a3/transformed/play-services-base-18.0.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/seyoonwang/.gradle/caches/transforms-3/8567a25e610e4c57100fe40d034dde1a/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/seyoonwang/.gradle/caches/transforms-3/8567a25e610e4c57100fe40d034dde1a/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/3c72714ad3cfa20fc5939c515e34727c/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/3c72714ad3cfa20fc5939c515e34727c/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/521d75df95d0fb30b567bb8d487687e4/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/521d75df95d0fb30b567bb8d487687e4/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/ba52cbd3723cf662cdfc624d34e7809f/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/ba52cbd3723cf662cdfc624d34e7809f/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:30:5-143:19
 MERGED from [androidx.core:core:1.12.0] /Users/seyoonwang/.gradle/caches/transforms-3/97e765d7646eda9d89caa6262cf470cb/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
 MERGED from [androidx.core:core:1.12.0] /Users/seyoonwang/.gradle/caches/transforms-3/97e765d7646eda9d89caa6262cf470cb/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/8af54e0bac94692eca074d1ccbe92802/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
@@ -77,6 +116,8 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/seyoonwang/.gradle/c
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/seyoonwang/.gradle/caches/transforms-3/8d71459ff4b6a1fa83de23a6a694dc65/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/seyoonwang/.gradle/caches/transforms-3/e31212a00fd25c60458e58354adc6d7f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/seyoonwang/.gradle/caches/transforms-3/e31212a00fd25c60458e58354adc6d7f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/seyoonwang/.gradle/caches/transforms-3/3de06fbe99c57d4a8a80625e13dadd2e/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/seyoonwang/.gradle/caches/transforms-3/3de06fbe99c57d4a8a80625e13dadd2e/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
 	android:extractNativeLibs
 		INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
@@ -99,38 +140,50 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/seyo
 		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:13:9-50
 	android:dataExtractionRules
 		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:7:9-65
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:15:9-17:69
+	android:value
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:17:13-67
+	android:name
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:16:13-69
 activity#com.goodafteryoon.sheep.MainActivity
-ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:15:9-23:20
+ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:18:9-26:20
 	android:exported
-		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:17:13-36
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:20:13-36
 	android:theme
-		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:18:13-54
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:21:13-54
 	android:name
-		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:16:13-41
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:19:13-22:29
+ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:24:27-74
 activity#com.goodafteryoon.sheep.SettingsActivity
-ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:25:9-28:57
+ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:28:9-31:57
 	android:exported
-		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:27:13-37
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:30:13-37
 	android:theme
-		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:28:13-54
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:31:13-54
 	android:name
-		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:26:13-45
+		ADDED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml:29:13-45
 uses-sdk
 INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml
 INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.11.0] /Users/seyoonwang/.gradle/caches/transforms-3/eaf6cb842bf96a5d1b11db61b47f74be/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.11.0] /Users/seyoonwang/.gradle/caches/transforms-3/eaf6cb842bf96a5d1b11db61b47f74be/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/89e538b288f5eed769e503ced55fc269/transformed/play-services-ads-22.6.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/89e538b288f5eed769e503ced55fc269/transformed/play-services-ads-22.6.0/AndroidManifest.xml:21:5-23:52
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/seyoonwang/.gradle/caches/transforms-3/ed5014a2716b1e0dde3b8148e15abff5/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/seyoonwang/.gradle/caches/transforms-3/ed5014a2716b1e0dde3b8148e15abff5/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/seyoonwang/.gradle/caches/transforms-3/85c7674c9c2927ad91a6764f9d72cc20/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/seyoonwang/.gradle/caches/transforms-3/85c7674c9c2927ad91a6764f9d72cc20/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/seyoonwang/.gradle/caches/transforms-3/8177fc0ae5949b09fa6ab8b305676505/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/seyoonwang/.gradle/caches/transforms-3/8177fc0ae5949b09fa6ab8b305676505/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/05c7963c5b78615e2170043d4dd5d7e5/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
@@ -141,6 +194,26 @@ MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/seyoonwang/.gradle/c
 MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/seyoonwang/.gradle/caches/transforms-3/36ddae848103d19ebf588b2230ebdac9/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/e854dc173145741c17288d2b8e5ed608/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/e854dc173145741c17288d2b8e5ed608/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/21c8c7a762e2d7cee386ffdfea27ea15/transformed/play-services-ads-base-22.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/21c8c7a762e2d7cee386ffdfea27ea15/transformed/play-services-ads-base-22.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/cb1a05ad385dab61d41dff317a708a22/transformed/user-messaging-platform-2.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/cb1a05ad385dab61d41dff317a708a22/transformed/user-messaging-platform-2.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/676f928ed35b5fd8ddadef22676c0b7a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/676f928ed35b5fd8ddadef22676c0b7a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/seyoonwang/.gradle/caches/transforms-3/9d70ec9b71947a2bec678d0c714bb5a9/transformed/play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/seyoonwang/.gradle/caches/transforms-3/9d70ec9b71947a2bec678d0c714bb5a9/transformed/play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/153b3ec1b36782ac009e00119c2065a3/transformed/play-services-base-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/153b3ec1b36782ac009e00119c2065a3/transformed/play-services-base-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/seyoonwang/.gradle/caches/transforms-3/8567a25e610e4c57100fe40d034dde1a/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/seyoonwang/.gradle/caches/transforms-3/8567a25e610e4c57100fe40d034dde1a/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/81519921713b616d77a83506e5ef2543/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/81519921713b616d77a83506e5ef2543/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/3c72714ad3cfa20fc5939c515e34727c/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/3c72714ad3cfa20fc5939c515e34727c/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/521d75df95d0fb30b567bb8d487687e4/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/521d75df95d0fb30b567bb8d487687e4/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
 MERGED from [androidx.fragment:fragment:1.3.6] /Users/seyoonwang/.gradle/caches/transforms-3/0814a142ad1dd5b790d941dd8dce2a92/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] /Users/seyoonwang/.gradle/caches/transforms-3/0814a142ad1dd5b790d941dd8dce2a92/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.8.0] /Users/seyoonwang/.gradle/caches/transforms-3/8c65ab0b27d4946b7dde4bbe5fc9b5b9/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
@@ -163,6 +236,8 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/seyoo
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/3131f2a29cd97810f7003d6130d3fec8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/20a3fb5df4904e943d3194ad8a03f3b6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/20a3fb5df4904e943d3194ad8a03f3b6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/seyoonwang/.gradle/caches/transforms-3/b0abaf1ee00b8bbf5ef31db5632c9ca8/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/seyoonwang/.gradle/caches/transforms-3/b0abaf1ee00b8bbf5ef31db5632c9ca8/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/ad05cc9213b4d5a7c1c99e670e93e3f9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/ad05cc9213b4d5a7c1c99e670e93e3f9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/0f4efd14d87c979a750a0e7d631c7215/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
@@ -173,10 +248,14 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/seyoonwang/.gradle
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/7c13ce2cd3ffbc08633eab04caa2e4f9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/741a16d27febc46cfd6b09efd0f8ad1c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/741a16d27febc46cfd6b09efd0f8ad1c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.core:core:1.12.0] /Users/seyoonwang/.gradle/caches/transforms-3/97e765d7646eda9d89caa6262cf470cb/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.12.0] /Users/seyoonwang/.gradle/caches/transforms-3/97e765d7646eda9d89caa6262cf470cb/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/seyoonwang/.gradle/caches/transforms-3/24a33f6c58ce47136219c8ef40630553/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/seyoonwang/.gradle/caches/transforms-3/24a33f6c58ce47136219c8ef40630553/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/ab7ac7e17581ecee63193ea107ae7d98/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/ab7ac7e17581ecee63193ea107ae7d98/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/8af54e0bac94692eca074d1ccbe92802/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/8af54e0bac94692eca074d1ccbe92802/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/eb82d03e2abcaac43cb63f01bcf8aede/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
@@ -209,6 +288,8 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/seyoonwang/.gradle
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/0be700c9754429f0e9d143616dc00db2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/seyoonwang/.gradle/caches/transforms-3/e31212a00fd25c60458e58354adc6d7f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/seyoonwang/.gradle/caches/transforms-3/e31212a00fd25c60458e58354adc6d7f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/seyoonwang/.gradle/caches/transforms-3/3de06fbe99c57d4a8a80625e13dadd2e/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/seyoonwang/.gradle/caches/transforms-3/3de06fbe99c57d4a8a80625e13dadd2e/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/2a2991bea4032cd791867b86327229dc/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/2a2991bea4032cd791867b86327229dc/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/b0fa39cdab60346c5d4f75d6a2b74611/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
@@ -217,12 +298,175 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/9632c531ef9e8b9b93d38c3393006279/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/041f4add30e80fb020c80f1480edcdce/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/041f4add30e80fb020c80f1480edcdce/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/94e1dd6c0b2a7451e8c6830658ced9bc/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/94e1dd6c0b2a7451e8c6830658ced9bc/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/4a0913384741df131e99728787f7947b/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/seyoonwang/.gradle/caches/transforms-3/4a0913384741df131e99728787f7947b/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/89e538b288f5eed769e503ced55fc269/transformed/play-services-ads-22.6.0/AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
 		INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/seyoonwang/Documents/sheep/SheepToSleep/app/src/main/AndroidManifest.xml
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/seyoonwang/.gradle/caches/transforms-3/85c7674c9c2927ad91a6764f9d72cc20/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/seyoonwang/.gradle/caches/transforms-3/85c7674c9c2927ad91a6764f9d72cc20/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/seyoonwang/.gradle/caches/transforms-3/85c7674c9c2927ad91a6764f9d72cc20/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/81519921713b616d77a83506e5ef2543/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/81519921713b616d77a83506e5ef2543/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:24:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/81519921713b616d77a83506e5ef2543/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/81519921713b616d77a83506e5ef2543/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:25:22-76
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/676f928ed35b5fd8ddadef22676c0b7a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/676f928ed35b5fd8ddadef22676c0b7a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/81519921713b616d77a83506e5ef2543/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/81519921713b616d77a83506e5ef2543/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:27:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:27:22-79
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:28:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:28:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_TOPICS
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:29:5-83
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:29:22-80
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:30:5-32:31
+REJECTED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:27:5-81
+	tools:node
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:32:9-28
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:31:9-65
+queries
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:35:5-51:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:38:9-44:18
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:39:13-65
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:39:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:41:13-74
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:41:23-71
+data
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:43:13-44
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:43:19-41
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:47:9-49:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:48:13-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:48:21-87
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:56:9-61:43
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:59:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:61:13-40
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:58:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:60:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:57:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:63:9-68:43
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:65:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:66:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:68:13-40
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:67:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:64:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:70:9-74:43
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:72:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:73:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:74:13-40
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:71:13-64
+activity#com.google.android.gms.ads.OutOfContextTestingActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:76:9-80:43
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:79:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:80:13-40
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:78:13-122
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:77:13-82
+activity#com.google.android.gms.ads.NotificationHandlerActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:81:9-88:43
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:83:13-46
+	android:launchMode
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:85:13-44
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:84:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:88:13-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:87:13-72
+	android:taskAffinity
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:86:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:82:13-82
+property
+ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:90:9-92:62
+	android:resource
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:92:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /Users/seyoonwang/.gradle/caches/transforms-3/e50fbc74e65a792223755e8bb03da136/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:91:13-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/153b3ec1b36782ac009e00119c2065a3/transformed/play-services-base-18.0.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/153b3ec1b36782ac009e00119c2065a3/transformed/play-services-base-18.0.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/153b3ec1b36782ac009e00119c2065a3/transformed/play-services-base-18.0.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] /Users/seyoonwang/.gradle/caches/transforms-3/153b3ec1b36782ac009e00119c2065a3/transformed/play-services-base-18.0.0/AndroidManifest.xml:20:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/81519921713b616d77a83506e5ef2543/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/seyoonwang/.gradle/caches/transforms-3/81519921713b616d77a83506e5ef2543/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/521d75df95d0fb30b567bb8d487687e4/transformed/play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/521d75df95d0fb30b567bb8d487687e4/transformed/play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/521d75df95d0fb30b567bb8d487687e4/transformed/play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/ba52cbd3723cf662cdfc624d34e7809f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:31:9-39:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/8af54e0bac94692eca074d1ccbe92802/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/seyoonwang/.gradle/caches/transforms-3/8af54e0bac94692eca074d1ccbe92802/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/seyoonwang/.gradle/caches/transforms-3/ca010a0ffcbed2c7c8a10ed728d7775b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
@@ -243,6 +487,214 @@ ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/seyoonwang/.gradle/caches/trans
 		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/ba52cbd3723cf662cdfc624d34e7809f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
 	android:name
 		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/seyoonwang/.gradle/caches/transforms-3/ba52cbd3723cf662cdfc624d34e7809f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:28:22-74
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/seyoonwang/.gradle/caches/transforms-3/d4f11e71c01a35c222d507ff8fed958d/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:25-85
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.12.0] /Users/seyoonwang/.gradle/caches/transforms-3/97e765d7646eda9d89caa6262cf470cb/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
@@ -311,3 +763,11 @@ action#androidx.profileinstaller.action.BENCHMARK_OPERATION
 ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/seyoonwang/.gradle/caches/transforms-3/ca010a0ffcbed2c7c8a10ed728d7775b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
 	android:name
 		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/seyoonwang/.gradle/caches/transforms-3/ca010a0ffcbed2c7c8a10ed728d7775b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/seyoonwang/.gradle/caches/transforms-3/3de06fbe99c57d4a8a80625e13dadd2e/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/seyoonwang/.gradle/caches/transforms-3/3de06fbe99c57d4a8a80625e13dadd2e/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/seyoonwang/.gradle/caches/transforms-3/3de06fbe99c57d4a8a80625e13dadd2e/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/seyoonwang/.gradle/caches/transforms-3/3de06fbe99c57d4a8a80625e13dadd2e/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74

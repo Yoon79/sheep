@@ -23,7 +23,11 @@ class SheepView @JvmOverloads constructor(
     private var sheepCount = 0 // 양의 개수를 추적
 
     init {
-        // 터치 이벤트 활성화
+        // SheepView가 생성될 때도 무조건 true로 저장 (이중 안전장치)
+        val sharedPreferences = context.applicationContext.getSharedPreferences("SheepToSleepSettings", Context.MODE_PRIVATE)
+        if (!sharedPreferences.contains("sound_enabled")) {
+            sharedPreferences.edit().putBoolean("sound_enabled", true).apply()
+        }
         isClickable = true
         isFocusable = true
     }
@@ -116,23 +120,20 @@ class SheepView @JvmOverloads constructor(
     }
     
     private fun playSheepSound() {
-        // 설정에서 소리 활성화 여부 확인
-        val sharedPreferences = context.getSharedPreferences("SheepToSleepSettings", Context.MODE_PRIVATE)
+        // 설정에서 소리 활성화 여부 확인 (기본값 true)
+        val sharedPreferences = context.applicationContext.getSharedPreferences("SheepToSleepSettings", Context.MODE_PRIVATE)
         val soundEnabled = sharedPreferences.getBoolean("sound_enabled", true)
-        
         if (!soundEnabled) return
-        
+
         try {
-            // 기존 MediaPlayer 정리
-            mediaPlayer?.release()
-            
-            // 새로운 MediaPlayer 생성
-            mediaPlayer = MediaPlayer.create(context, R.raw.sheep_sound)
-            mediaPlayer?.setVolume(0.5f, 0.5f) // 볼륨을 50%로 설정
-            mediaPlayer?.setOnCompletionListener { mp ->
-                mp.release()
+            val mp = MediaPlayer.create(context, R.raw.sheep_sound)
+            mp?.setVolume(1.0f, 1.0f)
+            mp?.setOnCompletionListener { it.release() }
+            mp?.setOnErrorListener { _, what, extra ->
+                android.util.Log.e("SheepView", "MediaPlayer error: what=$what, extra=$extra")
+                true
             }
-            mediaPlayer?.start()
+            mp?.start()
         } catch (e: Exception) {
             e.printStackTrace()
         }

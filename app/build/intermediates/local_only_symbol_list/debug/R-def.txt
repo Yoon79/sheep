@@ -13,6 +13,7 @@ drawable ic_settings
 drawable night_sky_background
 drawable sheep
 drawable sheep_gif
+id adView
 id closeButton
 id guideline_top
 id musicSwitch
