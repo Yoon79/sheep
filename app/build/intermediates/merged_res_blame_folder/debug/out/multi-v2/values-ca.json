@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.goodafteryoon.sheep.app-mergeDebugResources-29:/values-ca/values-ca.xml",
+            "outputFile": "com.goodafteryoon.sheep.app-mergeDebugResources-30:/values-ca/values-ca.xml",
             "map": [
                 {
                     "source": "/Users/seyoonwang/.gradle/caches/transforms-3/97e765d7646eda9d89caa6262cf470cb/transformed/core-1.12.0/res/values-ca/values-ca.xml",

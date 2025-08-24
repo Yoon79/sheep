@@ -7,11 +7,14 @@ color purple_700
 color teal_200
 color teal_700
 color white
+drawable night_sky_background
 drawable sheep
+drawable sheep_gif
 id sheepView
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
+raw sheep_sound
 string app_name
 style Theme.SheepToSleep
 xml backup_rules

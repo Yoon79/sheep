@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="270"
+        android:startColor="#0B1426"
+        android:centerColor="#1A237E"
+        android:endColor="#311B92"
+        android:type="linear" />
+    
+    <!-- 별들을 표현하는 작은 원들 -->
+    <corners android:radius="0dp" />
+</shape>

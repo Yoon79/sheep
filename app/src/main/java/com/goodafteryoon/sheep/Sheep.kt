@@ -1,7 +1,9 @@
 package com.goodafteryoon.sheep
 
+import android.content.Context
 import android.graphics.Canvas
 import android.graphics.drawable.Drawable
+import android.widget.ImageView
 import kotlin.math.cos
 import kotlin.math.sin
 
@@ -10,7 +12,7 @@ data class Sheep(
     var y: Float,
     var direction: Float, // 라디안 단위
     var speed: Float = 3f,
-    val drawable: Drawable
+    val imageView: ImageView
 ) {
     
     fun update(screenWidth: Int, screenHeight: Int) {
@@ -19,7 +21,7 @@ data class Sheep(
         y += sin(direction) * speed
         
         // 화면 경계에 부딪혔을 때 방향 변경
-        val sheepSize = 48f // 양의 크기
+        val sheepSize = 192f // 양의 크기 (2배로 증가)
         
         if (x <= sheepSize / 2 || x >= screenWidth - sheepSize / 2) {
             // 좌우 경계에 부딪힘
@@ -32,15 +34,13 @@ data class Sheep(
             direction = (-direction).toFloat()
             y = y.coerceIn(sheepSize / 2, screenHeight - sheepSize / 2)
         }
-    }
-    
-    fun draw(canvas: Canvas) {
-        drawable.setBounds(
-            (x - 24).toInt(),
-            (y - 24).toInt(),
-            (x + 24).toInt(),
-            (y + 24).toInt()
-        )
-        drawable.draw(canvas)
+        
+        // ImageView 위치 업데이트
+        imageView.x = x - sheepSize / 2
+        imageView.y = y - sheepSize / 2
+        
+        // 진행 방향에 따라 회전 (라디안을 도로 변환)
+        val rotationDegrees = Math.toDegrees(direction.toDouble()).toFloat()
+        imageView.rotation = rotationDegrees
     }
 }

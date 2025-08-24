@@ -1,10 +1,13 @@
 package com.goodafteryoon.sheep
 
 import android.content.Context
-import android.graphics.Canvas
+import android.media.MediaPlayer
 import android.util.AttributeSet
 import android.view.MotionEvent
 import android.view.View
+import android.widget.FrameLayout
+import android.widget.ImageView
+import com.bumptech.glide.Glide
 import kotlin.math.PI
 import kotlin.random.Random
 
@@ -12,11 +15,11 @@ class SheepView @JvmOverloads constructor(
     context: Context,
     attrs: AttributeSet? = null,
     defStyleAttr: Int = 0
-) : View(context, attrs, defStyleAttr) {
+) : FrameLayout(context, attrs, defStyleAttr) {
 
     private val sheepList = mutableListOf<Sheep>()
-    private val sheepDrawable = context.getDrawable(R.drawable.sheep)
     private var isAnimating = false
+    private var mediaPlayer: MediaPlayer? = null
 
     init {
         // 터치 이벤트 활성화
@@ -36,23 +39,52 @@ class SheepView @JvmOverloads constructor(
     }
 
     private fun createSheep(x: Float, y: Float) {
-        sheepDrawable?.let { drawable ->
-            // 랜덤한 방향 설정 (0 ~ 2π)
-            val randomDirection = Random.nextFloat() * 2 * PI.toFloat()
+        // 소리 재생
+        playSheepSound()
+        
+        // ImageView 생성 (크기 2배로 증가)
+        val imageView = ImageView(context).apply {
+            layoutParams = LayoutParams(192, 192) // 96 -> 192로 2배 증가
+            scaleType = ImageView.ScaleType.FIT_CENTER
+        }
+        
+        // GIF 로드 (assets 폴더에서 로드)
+        Glide.with(context)
+            .load("file:///android_asset/sheep.gif")
+            .into(imageView)
+        
+        // 랜덤한 방향 설정 (0 ~ 2π)
+        val randomDirection = Random.nextFloat() * 2 * PI.toFloat()
+        
+        val sheep = Sheep(
+            x = x,
+            y = y,
+            direction = randomDirection,
+            imageView = imageView
+        )
+        
+        sheepList.add(sheep)
+        addView(imageView)
+        
+        // 애니메이션 시작
+        if (!isAnimating) {
+            startAnimation()
+        }
+    }
+    
+    private fun playSheepSound() {
+        try {
+            // 기존 MediaPlayer 정리
+            mediaPlayer?.release()
             
-            val sheep = Sheep(
-                x = x,
-                y = y,
-                direction = randomDirection,
-                drawable = drawable
-            )
-            
-            sheepList.add(sheep)
-            
-            // 애니메이션 시작
-            if (!isAnimating) {
-                startAnimation()
+            // 새로운 MediaPlayer 생성
+            mediaPlayer = MediaPlayer.create(context, R.raw.sheep_sound)
+            mediaPlayer?.setOnCompletionListener { mp ->
+                mp.release()
             }
+            mediaPlayer?.start()
+        } catch (e: Exception) {
+            e.printStackTrace()
         }
     }
 
@@ -69,24 +101,19 @@ class SheepView @JvmOverloads constructor(
             sheep.update(width, height)
         }
         
-        // 화면 다시 그리기
-        invalidate()
-        
         // 다음 프레임 예약 (60 FPS)
         postDelayed({ startAnimationLoop() }, 16)
-    }
-
-    override fun onDraw(canvas: Canvas) {
-        super.onDraw(canvas)
-        
-        // 모든 양 그리기
-        sheepList.forEach { sheep ->
-            sheep.draw(canvas)
-        }
     }
 
     override fun onDetachedFromWindow() {
         super.onDetachedFromWindow()
         isAnimating = false
+        mediaPlayer?.let { mp ->
+            if (mp.isPlaying) {
+                mp.stop()
+            }
+            mp.release()
+        }
+        mediaPlayer = null
     }
 }
