@@ -3856,7 +3856,10 @@ int layout select_dialog_multichoice_material 0x7f0b006d
 int layout select_dialog_singlechoice_material 0x7f0b006e
 int layout support_simple_spinner_dropdown_item 0x7f0b006f
 int mipmap ic_launcher 0x7f0d0000
-int mipmap ic_launcher_round 0x7f0d0001
+int mipmap ic_launcher_background 0x7f0d0001
+int mipmap ic_launcher_foreground 0x7f0d0002
+int mipmap ic_launcher_monochrome 0x7f0d0003
+int mipmap ic_launcher_round 0x7f0d0004
 int plurals mtrl_badge_content_description 0x7f0e0000
 int raw background_music 0x7f0f0000
 int raw sheep_sound 0x7f0f0001

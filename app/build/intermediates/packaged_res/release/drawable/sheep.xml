@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- 양의 몸체 (흰색) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,32 C20,32 18,30 18,28 C18,26 20,24 24,24 C28,24 30,26 30,28 C30,30 28,32 24,32 Z" />
+    
+    <!-- 양의 머리 (흰색) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,20 C22,20 20,18 20,16 C20,14 22,12 24,12 C26,12 28,14 28,16 C28,18 26,20 24,20 Z" />
+    
+    <!-- 양의 귀 (분홍색) -->
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M22,14 L20,10 L24,12 Z" />
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M26,14 L28,10 L24,12 Z" />
+    
+    <!-- 양의 눈 (검은색) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M23,15 L22,15 L22,16 L23,16 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M25,15 L24,15 L24,16 L25,16 Z" />
+    
+    <!-- 양의 코 (검은색) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M24,17 L23.5,17 L23.5,17.5 L24,17.5 Z" />
+    
+    <!-- 양의 다리 (검은색) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M22,32 L21,36 L23,36 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M26,32 L25,36 L27,36 Z" />
+    
+    <!-- 양의 털 (흰색) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,26 C22,26 21,25 21,24 C21,23 22,22 24,22 C26,22 27,23 27,24 C27,25 26,26 24,26 Z" />
+</vector>
