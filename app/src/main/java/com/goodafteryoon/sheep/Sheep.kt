@@ -39,8 +39,8 @@ data class Sheep(
         imageView.x = x - sheepSize / 2
         imageView.y = y - sheepSize / 2
         
-        // 진행 방향에 따라 회전 (라디안을 도로 변환)
-        val rotationDegrees = Math.toDegrees(direction.toDouble()).toFloat()
+        // 진행 방향에 따라 회전 (라디안을 도로 변환하고 180도 더해서 머리가 앞방향을 향하도록)
+        val rotationDegrees = Math.toDegrees(direction.toDouble()).toFloat() + 180f
         imageView.rotation = rotationDegrees
     }
 }

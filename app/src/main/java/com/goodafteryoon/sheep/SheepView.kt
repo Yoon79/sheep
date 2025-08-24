@@ -20,6 +20,7 @@ class SheepView @JvmOverloads constructor(
     private val sheepList = mutableListOf<Sheep>()
     private var isAnimating = false
     private var mediaPlayer: MediaPlayer? = null
+    private var sheepCount = 0 // 양의 개수를 추적
 
     init {
         // 터치 이벤트 활성화
@@ -39,6 +40,9 @@ class SheepView @JvmOverloads constructor(
     }
 
     private fun createSheep(x: Float, y: Float) {
+        // 양 개수 증가
+        sheepCount++
+        
         // 소리 재생
         playSheepSound()
         
@@ -48,9 +52,18 @@ class SheepView @JvmOverloads constructor(
             scaleType = ImageView.ScaleType.FIT_CENTER
         }
         
-        // GIF 로드 (assets 폴더에서 로드)
+        // 100단위마다 특별한 양 표시
+        val isSpecialSheep = sheepCount % 100 == 0
+        
+        // GIF 로드 (100단위면 특별한 양, 아니면 일반 양)
+        val gifPath = if (isSpecialSheep) {
+            "file:///android_asset/sheep100th.gif"
+        } else {
+            "file:///android_asset/sheep.gif"
+        }
+        
         Glide.with(context)
-            .load("file:///android_asset/sheep.gif")
+            .load(gifPath)
             .into(imageView)
         
         // 랜덤한 방향 설정 (0 ~ 2π)
