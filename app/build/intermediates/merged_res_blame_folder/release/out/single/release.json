@@ -1,90 +1,194 @@
 [
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/drawable_sheep_gif.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/drawable/sheep_gif.xml"
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-mdpi/ic_launcher_monochrome.png"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/xml/data_extraction_rules.xml"
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/drawable_sheep.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/drawable/sheep.xml"
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/drawable_ic_settings.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/drawable/ic_settings.xml"
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/drawable_night_sky_background.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/drawable/night_sky_background.xml"
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/mipmap-mdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/raw_sheep_sound.mp3.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/raw/sheep_sound.mp3"
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.xml"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxhdpi/ic_launcher_round.xml"
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/drawable_button_background.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/drawable/button_background.xml"
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-mdpi_ic_launcher.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-mdpi/ic_launcher.xml"
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/drawable_dialog_background.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/drawable/dialog_background.xml"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xhdpi_ic_launcher.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xhdpi/ic_launcher.xml"
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/xml_backup_rules.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/xml/backup_rules.xml"
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/mipmap-hdpi/ic_launcher_round.xml"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xhdpi/ic_launcher_round.xml"
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-hdpi/ic_launcher_round.xml"
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/raw_sheep_sound.mp3.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/raw/sheep_sound.mp3"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-hdpi_ic_launcher.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-hdpi/ic_launcher.xml"
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/mipmap-xxxhdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.xml"
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxhdpi/ic_launcher.xml"
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/mipmap-xxhdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/layout_activity_settings.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/layout/activity_settings.xml"
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/mipmap-xhdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxxhdpi/ic_launcher.xml"
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-mdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/raw_background_music.mp3.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/raw/background_music.mp3"
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/mipmap-xxhdpi/ic_launcher_round.xml"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/layout_activity_main.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/layout/activity_main.xml"
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/drawable_night_sky_background.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/drawable/night_sky_background.xml"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/drawable_dialog_background.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/drawable/dialog_background.xml"
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.xml.flat",
-        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-mdpi/ic_launcher_round.xml"
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/drawable_sheep_gif.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/drawable/sheep_gif.xml"
+    },
+    {
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/raw_background_music.mp3.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/raw/background_music.mp3"
+    },
+    {
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/drawable_sheep.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/drawable/sheep.xml"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/layout_activity_settings.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/drawable_button_background.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/drawable/button_background.xml"
+    },
+    {
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.goodafteryoon.sheep.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.goodafteryoon.sheep.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-merged_res-41:/drawable_ic_settings.xml.flat",
+        "source": "/Users/seyoonwang/.gradle/daemon/8.2/com.goodafteryoon.sheep.app-main-42:/drawable/ic_settings.xml"
     }
 ]
